@@ -1,0 +1,14 @@
+# 데이터 (원본·전처리 CSV는 올리지 않음)
+data/raw/
+data/*.csv
+
+# 주피터·파이썬 임시 파일
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS·에디터
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
